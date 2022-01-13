@@ -1,6 +1,6 @@
 # Hey my gorgeous friends 👋
 
-##My name is __Ivan__ and I'm a __QA__ __Engineer__
+## My name is __Ivan__ and I'm a __QA__ __Engineer__
 
  On this page, you can see my practice work
 - [ Postman](https://github.com/ivanshybut/Postman)
