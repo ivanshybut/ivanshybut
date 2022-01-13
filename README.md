@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hey my gorgeous friends 👋
 
-<!--
-**ivanshybut/ivanshybut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Ivan and I'm a QA Engineer
 
-Here are some ideas to get you started:
+## On this page, you can see my practice work
+- [ Postman](https://github.com/ivanshybut/Postman)
+- [SQL](https://github.com/ivanshybut/SQL)
+- [Linux terminal](https://github.com/ivanshybut/QA_group_25/blob/main/terminal_git_1.txt)
+- [Git](https://github.com/ivanshybut/Git) 
+- [Chrome DevTools](https://github.com/ivanshybut/Chrome_DevTools)
+- [Mobile testing]()
+- [Jmeter](https://github.com/ivanshybut/Jmeter)
+- [Charles]()
+- [Python](https://github.com/ivanshybut/Python_course)
+- [HTML & CSS](https://github.com/ivanshybut/Space)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tools
+
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=MySql)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+
+
+### Connect with me
+[![linkedin](https://img.shields.io/badge/-Linkedin-3498db?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanshybut)
+[![Gmail](https://img.shields.io/badge/-Gmail-eef2f3?style=for-the-badge&logo=Gmail)](https://ivanshybut92@gmail.com)
+
+
+
+
+
+
+
+
+
+
