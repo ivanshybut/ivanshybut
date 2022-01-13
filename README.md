@@ -34,10 +34,8 @@
 
 ### Connect with me
 
-<p alling-"left">
-[[<img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/>]](https://www.linkedin.com/in/ivanshybut)
-[[<img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-gmail-social-media-justicon-flat-justicon.png"/>]](https://ivanshybut92@gmail.com)
-</p>
+[![linkedin](https://img.shields.io/badge/-Linkedin-3498db?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivanshybut)
+[![Gmail](https://img.shields.io/badge/-Gmail-eef2f3?style=for-the-badge&logo=Gmail)](https://ivanshybut92@gmail.com)
 
 
 
