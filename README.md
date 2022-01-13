@@ -1,8 +1,8 @@
 # Hey my gorgeous friends 👋
 
-## My name is Ivan and I'm a QA Engineer
+ My name is Ivan and I'm a QA Engineer
 
-## On this page, you can see my practice work
+ On this page, you can see my practice work
 - [ Postman](https://github.com/ivanshybut/Postman)
 - [SQL](https://github.com/ivanshybut/SQL)
 - [Linux terminal](https://github.com/ivanshybut/QA_group_25/blob/main/terminal_git_1.txt)
