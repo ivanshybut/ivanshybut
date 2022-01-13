@@ -17,11 +17,17 @@
 
 ### Tools
 
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
-![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=MySql)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/44/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/46/000000/git.png"/>
+<img src="https://img.icons8.com/color/46/000000/linux--v2.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/46/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/46/000000/python--v2.png"/>
+<img src="https://img.icons8.com/fluency/46/000000/android-studio--v3.png"/>
+<img src="https://img.icons8.com/color/46/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/46/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/fluency/46/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/46/000000/pycharm.png"/>
+
 
 
 ### Connect with me
