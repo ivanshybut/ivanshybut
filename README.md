@@ -5,7 +5,7 @@
  On this page, you can see my practice work
 - [ Postman](https://github.com/ivanshybut/Postman)
 - [SQL](https://github.com/ivanshybut/SQL)
-- [Linux terminal](https://github.com/ivanshybut/QA_group_25/blob/main/terminal_git_1.txt)
+- [Linux terminal](https://github.com/ivanshybut/Linux/blob/main/README.md)
 - [Git](https://github.com/ivanshybut/Git) 
 - [Chrome DevTools](https://github.com/ivanshybut/Chrome_DevTools)
 - [Mobile testing]()
