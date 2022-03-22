@@ -3,6 +3,7 @@
  My name is __Ivan__ and I'm a __QA__ __Engineer__
 
  On this page, you can see my practice work
+- [The Theory of Software Testing (RU)] (https://github.com/ivanshybut/The-Theory-of-Software-Testing/blob/main/README.md)
 - [ Postman](https://github.com/ivanshybut/Postman)
 - [SQL](https://github.com/ivanshybut/SQL)
 - [Linux terminal](https://github.com/ivanshybut/Linux/blob/main/README.md)
