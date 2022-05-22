@@ -14,6 +14,7 @@
 - [Jmeter](https://github.com/ivanshybut/Jmeter)
 - [Charles]()
 - [Python](https://github.com/ivanshybut/Python_course)
+- [JavaScript](https://github.com/ivanshybut/javascript)
 - [HTML & CSS](https://github.com/ivanshybut/Space)
 
 
@@ -30,6 +31,7 @@
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/46/000000/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/fluency/46/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/46/000000/pycharm.png"/>
+<img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
 </p>
 
 
