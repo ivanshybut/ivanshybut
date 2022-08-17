@@ -10,7 +10,7 @@
 - [Linux terminal](https://github.com/ivanshybut/Linux/blob/main/README.md)
 - [Git](https://github.com/ivanshybut/Git) 
 - [Chrome DevTools](https://github.com/ivanshybut/Chrome_DevTools)
-- [Mobile testing]()
+- [Mobile testing](https://github.com/ivanshybut/Mobile_testing)
 - [Jmeter](https://github.com/ivanshybut/Jmeter)
 - [Charles]()
 - [Python](https://github.com/ivanshybut/Python_course)
