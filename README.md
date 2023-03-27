@@ -14,7 +14,7 @@
 - [Jmeter](https://github.com/ivanshybut/Jmeter)
 - [Charles]()
 - [Python](https://github.com/ivanshybut/Python_course)
-- [JavaScript](https://github.com/ivanshybut/javascript)
+- [JavaScript](https://github.com/ivanshybut/RedRover.school_javascript)
 - [HTML & CSS](https://github.com/ivanshybut/Space)
 
 
